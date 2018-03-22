@@ -15,11 +15,12 @@ https://github.com/udacity/rl-cheatsheet
 OpenAI Gym: CliffWalking Environment
 ![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/CliffWalkingEnv.jpg)  
   
-
+  
 Output: State-Value function
 ![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/State-value_function.png)  
   
-Output: Average Reward
+  
+Output: Average Reward  
 ![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/Reward.png)  
   
 
