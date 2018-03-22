@@ -17,9 +17,9 @@ OpenAI Gym: CliffWalking Environment
   
 
 Output: State-Value function
-![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/state-value_function.png)  
+![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/State-value_function.png)  
   
-Output: Policy
-![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/policy.png)  
+Output: Average Reward
+![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/Reward.png)  
   
 
