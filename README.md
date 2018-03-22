@@ -13,7 +13,7 @@ Reinforcement Learning cheatsheet
 https://github.com/udacity/rl-cheatsheet  
 
 OpenAI Gym: CliffWalking Environment
-![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/blackjack.png)  
+![alt text](https://github.com/TakumaKawahara/RL-Temporal_Difference/blob/master/CliffWalkingEnv.jpg)  
   
 
 Output: State-Value function
